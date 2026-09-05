@@ -9,7 +9,7 @@
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=under-construct-dev&theme=dark&hide_border=true&background=0d1117&ring=2F9F4F&fire=2F9F4F&currStreakLabel=2F9F4F" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=under-construct-dev&theme=merko&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -25,6 +25,8 @@
 
 ---
 
-<h3>🔥Activity</h3>
+<h3 align="center">🔥Activity</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=under-construct-dev&label=Profile%20views&color=2F9F4F&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=under-construct-dev&label=Profile%20views&color=2F9F4F&style=flat" alt="Profile Views"/>
+</p>
