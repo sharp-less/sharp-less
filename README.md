@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unistd-h&theme=hacker&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=unistd-h&theme=dark" alt="Most used langs"/>
 </p>
 
 ---
